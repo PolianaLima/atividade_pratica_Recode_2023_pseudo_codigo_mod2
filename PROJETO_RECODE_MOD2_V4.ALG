@@ -7,7 +7,7 @@ CONST
 
 
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
    cad_clientes_nome: vetor[1..maxCliente] de caractere
    cad_clientes_email: vetor[1..maxCliente] de caractere
@@ -109,7 +109,7 @@ inicio
       escreval()
       escreval()
    senao
-      escreval("Voo não encontrado")
+      escreval("Voo nÃ£o encontrado")
       escreval()
       escreval()
    fimse
@@ -118,9 +118,9 @@ fimprocedimento
 
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
-   escreval("BEM VINDOS AS FÉRIAS E LAZER")
+   escreval("BEM VINDOS AS FÃ‰RIAS E LAZER")
    escreval()
    escreval("Menu Sistema")
    escreval("1-Cadastro Cliente ")
@@ -182,7 +182,7 @@ Inicio
 
       fimescolha
 
-      escreval("BEM VINDOS AS FÉRIAS E LAZER")
+      escreval("BEM VINDOS AS FÃ‰RIAS E LAZER")
       escreval()
       escreval("Menu Sistema")
       escreval("1-Cadastro Cliente ")
@@ -201,7 +201,3 @@ Inicio
 
 
 Fimalgoritmo
-
-
-//PARA O CASO DE CADASTRO DE DESTINO USAR OS MESMO METODOS DE CADASTRO DE
-//CLIENTES
